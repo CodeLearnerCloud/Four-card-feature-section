@@ -1,5 +1,17 @@
-h1 {
-  font-size: 3em;
-  color: #0fe;
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+:root {
+  --fw-lite: 200;
+  --fw-regular: 400;
+  --fw-bold: 600;
+  --fz: 0.93rem;
+  --ff: 'Poppins', sans-serif;
+
+  --clr-p-red: hsl(0, 78%, 62%);
+  --clr-p-cyan: hsl(180, 62%, 55%);
+  --clr-p-orange: hsl(34, 97%, 64%);
+  --clr-p-blue: hsl(212, 86%, 64%);
+  --clr-n-dark-blue: hsl(234, 12%, 34%);
+  --clr-n-blue: hsl(229, 6%, 66%);
+  --clr-gray: hsl(0, 0%, 98%);
 }
