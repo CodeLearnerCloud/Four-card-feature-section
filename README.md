@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/CodeLearnerCloud/Four-card-feature-section)
-- Live Site URL: [netlify](https://quizzical-curran-aa22b5.netlify.app)
+- Live Site URL: [Netlify](https://quizzical-curran-aa22b5.netlify.app)
 
 ## My process
 
